@@ -1,10 +1,10 @@
 Frontend Coding Challenge Hopkins
 =================
-This challenge is about building a small interface that shows the weather for the next 3 days. As a user I would want to be able to use it to get the following information.
+This challenge is about building a small interface that shows the weather for the next 3 days. As a user I would want to be able to get the following information.
 
 ### Requirements
 1. In the morning I want to check the weather for today to make sure that I can dress accordingly.
-2. Sometimes, when I leave home for the weekend, I want to make sure that it's not too windy, as I have sensitive plants on my balcony that I would have to move into my flat otherwise.
+2. Sometimes, when I leave home for the weekend, I want to make sure that it won't be too windy while I'm gone, as I have sensitive plants on my balcony that I would have to move into my flat otherwise.
 3. I also want to be able to set whether I need rain or not. My plants should stay hydrated.
 4. I am usually checking the weather on my phone, so it should be responsive.
 
